@@ -1,2 +1,2 @@
 # Personal-website
-About Me
+Created a basic website using HTML and CSS
